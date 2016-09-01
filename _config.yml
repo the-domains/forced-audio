@@ -1,4 +1,3 @@
-layout_spectrum: 0.0688041562680155
 typography_spectrum: 0.5831389133818448
 color:
   brandStrength: 0.8507133640814573
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: forced audio
+layout_spectrum: 0.0688041562680155
+name: teaching audio
+title: Tips on teaching audio production
