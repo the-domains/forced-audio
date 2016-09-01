@@ -1,0 +1,14 @@
+layout_spectrum: 0.0688041562680155
+typography_spectrum: 0.5831389133818448
+color:
+  brandStrength: 0.8507133640814573
+  lightness: 0.42580420430749655
+  saturation: 0.3451065525878221
+  rhythmicContrast: 0.13985313684679568
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: forced audio
