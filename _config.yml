@@ -12,4 +12,8 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.0688041562680155
 name: teaching audio
+navigation:
+  - name: award winning student audio
+    id: c2f61ba0-bab1-41a9-b3b2-921a9a7c677f
+    type: content
 title: Tips on teaching audio production
