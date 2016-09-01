@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-29T22:15:12.575Z'
+datePublished: '2016-08-29T22:25:56.355Z'
 sourcePath: >-
   _posts/2016-04-16-7-pimms-cup-recipes-for-spring-or-lifestyle-or-wallpaper-mag.md
 inFeed: true
-isBasedOnUrl: 'http://www.wallpaper.com/lifestyle/7-pimms-cup-recipes-for-spring'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - pimm
   - cocktail
@@ -21,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-29T22:15:11.673Z'
+dateModified: '2016-08-29T22:25:55.667Z'
 title: 7 Pimm's Cup recipes for spring.
 app_links: []
 publisher:
@@ -38,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: 7-pimms-cup-recipes-for-spring/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
