@@ -1,3 +1,4 @@
+layout_spectrum: 0.0688041562680155
 typography_spectrum: 0.5831389133818448
 color:
   brandStrength: 0.8507133640814573
@@ -10,10 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.0688041562680155
-name: teaching audio
-navigation:
-  - name: award winning student audio
-    id: c2f61ba0-bab1-41a9-b3b2-921a9a7c677f
-    type: content
-title: Tips on teaching audio production
+name: forced audio
